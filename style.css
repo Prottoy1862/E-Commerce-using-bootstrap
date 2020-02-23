@@ -19,3 +19,27 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color:rgb(150, 98, 1);
+}
+.cat2{
+    background-color: rgb(214, 9, 111);
+}
+.cat3{
+    background-color: rgb(0, 20, 78);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px  lightgrey;
+    border-radius: 10px;
+}
