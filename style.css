@@ -43,3 +43,13 @@
     box-shadow: 5px 5px 10px  lightgrey;
     border-radius: 10px;
 }
+#contact-us{
+    height: 300px;
+
+}
+#contact-us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
